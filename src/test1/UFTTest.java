@@ -14,6 +14,10 @@ public class UFTTest {
 	{
 		System.out.println("qtp  Test");
 	}
+	public void getdataf2() //American timeZones X code 
+	{
+		System.out.println("qtp Test American TimeZones");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
